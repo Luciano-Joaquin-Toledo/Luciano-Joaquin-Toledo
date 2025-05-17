@@ -47,19 +47,14 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca, con orient
 ## 🚀 Proyectos destacados
 
 - 🔹 **T.O.B.I. (2024)**  
-  Sistema de gestión de alumnos desarrollado en Python y SQL. Participación en ferias regionales y provinciales.
-
+ 
 - 🔹 **M.L.M. (2024)**  
-  Aplicación educativa para Android, creada en Android Studio con Java.
 
 - 🔹 **Sistema de Tickets (2022)**  
-  Proyecto automatizado con Arduino, enfocado en gestión y control.
 
 - 🔹 **Sistema de Ventas (2022)**  
-  Aplicación de escritorio desarrollada en Visual Basic con base de datos SQL.
 
 - 🔹 **Diseño Web (2023)**  
-  Desarrollo completo de sitios web con HTML5, CSS3, JavaScript, PHP y SQL.
 
 ---
 
