@@ -1,59 +1,60 @@
 <div align="center">
-  <img height="170" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
-</div>
-
-<div align="center">
-  <h1>Luciano Joaquín Toledo</h1>
-  <h3>👨‍💻 Estudiante Técnico en Informática | Desarrollador en formación</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="180" alt="Welcome Gif" />
+  <h1>👋 Hola, soy <b>Luciano Joaquín Toledo</b></h1>
+  <h3>Estudiante Técnico en Informática | Desarrollador en formación | Apasionado por la tecnología</h3>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-Luciano.Joaquin.Toledo%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicación-Lomas%20de%20Zamora-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <a href="mailto:toledoluciano657@gmail.com">
+    <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.google.com/maps/place/Lomas+de+Zamora" target="_blank">
+    <img src="https://img.shields.io/badge/Ubicación-Lomas%20de%20Zamora-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación" />
+  </a>
+  <a href="https://github.com/Luciano-Joaquin-Toledo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Luciano--Joaquin--Toledo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luciano-Joaquin-Toledo.Luciano-Joaquin-Toledo" />
-</div>
 
 ---
 
 ## 💼 Sobre mí
 
-📌 Estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca – Orientación en informática personal y profesional.  
-💡 Apasionado por la tecnología, el desarrollo de software y el aprendizaje constante.  
-💻 Me gusta trabajar en proyectos reales, resolver problemas y colaborar en equipo.  
-🎯 Objetivo: crecer como profesional IT, aportando soluciones creativas y eficientes.
+Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orientación en informática personal y profesional. Me apasiona la tecnología y el desarrollo de software, siempre buscando aprender y superar desafíos para crecer profesionalmente. Mi enfoque está en crear soluciones creativas, eficientes y escalables, con una actitud proactiva y colaborativa.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+
 </div>
 
 ---
 
-## 🧪 Proyectos destacados
+## 🚀 Proyectos destacados
 
-- 🔹 **T.O.B.I. (2024):** Sistema de gestión de alumnos – Python + SQL. Participación en ferias regionales y provinciales.  
-- 🔹 **M.L.M. (2024):** Aplicación Android educativa desarrollada en Android Studio.  
-- 🔹 **Sistema de Tickets (2022):** Proyecto automatizado con Arduino.  
-- 🔹 **Sistema de Ventas (2022):** Escritorio – Visual Basic + SQL.  
-- 🔹 **Diseño Web (2023):** HTML5, CSS3, JS, PHP y SQL.
+| Proyecto               | Año  | Descripción                                                                                  | Tecnologías             |
+|-----------------------|-------|----------------------------------------------------------------------------------------------|-------------------------|
+| **T.O.B.I.**          | 2024  | Sistema de gestión de alumnos. Participé en ferias regionales y provinciales.                 | Python, SQL             |
+| **M.L.M.**            | 2024  | Aplicación Android educativa desarrollada en Android Studio.                                 | Android Studio, Java     |
+| **Sistema de Tickets** | 2022  | Proyecto automatizado con Arduino.                                                          | Arduino                 |
+| **Sistema de Ventas**  | 2022  | Aplicación escritorio con Visual Basic y base de datos SQL.                                  | Visual Basic, SQL        |
+| **Diseño Web**         | 2023  | Desarrollo de sitios web con HTML5, CSS3, JavaScript, PHP y SQL.                             | HTML5, CSS3, JS, PHP, SQL |
 
 ---
 
@@ -61,42 +62,29 @@
 
 - 🏅 Excel Avanzado – UTN (2023)  
 - 🏅 Diseño Web – Capacitación técnica (2023)  
-- 🏅 Finder – Capacitación para el empleo (2021)
+- 🏅 Finder – Capacitación para el empleo (2021)  
 
 ---
 
 ## 💡 Aptitudes
 
-- ✅ Trabajo en equipo y liderazgo  
-- ✅ Responsabilidad y compromiso  
-- ✅ Pensamiento analítico  
-- ✅ Versatilidad y proactividad  
-- ✅ Aprendizaje continuo  
+- Trabajo en equipo y liderazgo  
+- Responsabilidad y compromiso  
+- Pensamiento analítico  
+- Versatilidad y proactividad  
+- Aprendizaje continuo  
 
 ---
 
-## 🚀 Actividad en GitHub
+## 📊 GitHub
 
 <div align="center">
 
-  ![Contribuciones recientes](https://github.com/Luciano-Joaquin-Toledo.png?size=120)
+  ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-Joaquin-Toledo&show_icons=true&theme=radical&count_private=true&hide_border=false)
 
-  <p>¡Seguime en GitHub para ver mis proyectos en progreso y contribuciones!</p>
+  <br/>
 
-  <a href="https://github.com/Luciano-Joaquin-Toledo?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Mis%20Repositorios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios GitHub" />
-  </a>
-
-  <br/><br/>
-
-  <details>
-    <summary><strong>Repositorios destacados</strong></summary>
-
-    - [QuickMenu](https://github.com/Luciano-Joaquin-Toledo/QuickMenu) - Menú digital por código QR para restaurantes.  
-    - [T.O.B.I.](https://github.com/Luciano-Joaquin-Toledo/T.O.B.I) - Sistema de gestión de alumnos en Python y SQL.  
-    - [MLM-App](https://github.com/Luciano-Joaquin-Toledo/MLM-App) - Aplicación educativa para Android.  
-
-  </details>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Joaquin-Toledo&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
@@ -104,7 +92,18 @@
 
 ## 📫 Contacto
 
-📧 **Email:** Luciano.Joaquin.Toledo@gmail.com  
-📱 **Teléfono:** +54 11 5691-1720  
-🌐 **LinkedIn:** (agregá tu link cuando tengas perfil creado)  
+<div align="center">
 
+  <a href="mailto:toledoluciano657@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:+541156911720" target="_blank">
+    <img src="https://img.shields.io/badge/Telefono-%2B54%2011%205691-1720-blue?style=flat&logo=phone&logoColor=white" alt="Teléfono" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
