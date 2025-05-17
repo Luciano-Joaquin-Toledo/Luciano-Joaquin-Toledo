@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="180" alt="Welcome Gif" />
-  <h1>👋 Hola, soy <b>Luciano Joaquín Toledo</b></h1>
-  <h3>Estudiante Técnico en Informática | Desarrollador en formación | Apasionado por la tecnología</h3>
+  <h1>👋 Hola, soy <strong>Luciano Joaquín Toledo</strong></h1>
+  <h3>Estudiante Técnico en Informática | Desarrollador en formación</h3>
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:toledoluciano657@gmail.com">
+  <a href="mailto:toledoluciano657@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.google.com/maps/place/Lomas+de+Zamora" target="_blank">
@@ -18,17 +18,15 @@
   </a>
 </div>
 
-<br/>
-
 ---
 
 ## 💼 Sobre mí
 
-Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orientación en informática personal y profesional. Me apasiona la tecnología y el desarrollo de software, siempre buscando aprender y superar desafíos para crecer profesionalmente. Mi enfoque está en crear soluciones creativas, eficientes y escalables, con una actitud proactiva y colaborativa.
+Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca, con orientación en informática personal y profesional. Apasionado por la tecnología y el desarrollo de software, busco siempre aprender y crecer profesionalmente aportando soluciones eficientes y creativas.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠 Tecnologías y herramientas
 
 <div align="center">
 
@@ -48,13 +46,20 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orienta
 
 ## 🚀 Proyectos destacados
 
-| Proyecto               | Año  | Descripción                                                                                  | Tecnologías             |
-|-----------------------|-------|----------------------------------------------------------------------------------------------|-------------------------|
-| **T.O.B.I.**          | 2024  | Sistema de gestión de alumnos. Participé en ferias regionales y provinciales.                 | Python, SQL             |
-| **M.L.M.**            | 2024  | Aplicación Android educativa desarrollada en Android Studio.                                 | Android Studio, Java     |
-| **Sistema de Tickets** | 2022  | Proyecto automatizado con Arduino.                                                          | Arduino                 |
-| **Sistema de Ventas**  | 2022  | Aplicación escritorio con Visual Basic y base de datos SQL.                                  | Visual Basic, SQL        |
-| **Diseño Web**         | 2023  | Desarrollo de sitios web con HTML5, CSS3, JavaScript, PHP y SQL.                             | HTML5, CSS3, JS, PHP, SQL |
+- 🔹 **T.O.B.I. (2024)**  
+  Sistema de gestión de alumnos desarrollado en Python y SQL. Participación en ferias regionales y provinciales.
+
+- 🔹 **M.L.M. (2024)**  
+  Aplicación educativa para Android, creada en Android Studio con Java.
+
+- 🔹 **Sistema de Tickets (2022)**  
+  Proyecto automatizado con Arduino, enfocado en gestión y control.
+
+- 🔹 **Sistema de Ventas (2022)**  
+  Aplicación de escritorio desarrollada en Visual Basic con base de datos SQL.
+
+- 🔹 **Diseño Web (2023)**  
+  Desarrollo completo de sitios web con HTML5, CSS3, JavaScript, PHP y SQL.
 
 ---
 
@@ -62,17 +67,17 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orienta
 
 - 🏅 Excel Avanzado – UTN (2023)  
 - 🏅 Diseño Web – Capacitación técnica (2023)  
-- 🏅 Finder – Capacitación para el empleo (2021)  
+- 🏅 Finder – Capacitación para el empleo (2021)
 
 ---
 
-## 💡 Aptitudes
+## 💡 Aptitudes clave
 
 - Trabajo en equipo y liderazgo  
 - Responsabilidad y compromiso  
-- Pensamiento analítico  
+- Pensamiento analítico y resolución de problemas  
 - Versatilidad y proactividad  
-- Aprendizaje continuo  
+- Aprendizaje constante y auto-motivación  
 
 ---
 
@@ -80,7 +85,7 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orienta
 
 <div align="center">
 
-  ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciano-Joaquin-Toledo&show_icons=true&theme=radical&count_private=true&hide_border=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luciano-Joaquin-Toledo&show_icons=true&theme=radical&count_private=true&hide_border=false)
 
   <br/>
 
@@ -99,7 +104,7 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orienta
   </a>
   &nbsp;&nbsp;
   <a href="tel:+541156911720" target="_blank">
-    <img src="https://img.shields.io/badge/Telefono-%2B54%2011%205691-1720-blue?style=flat&logo=phone&logoColor=white" alt="Teléfono" />
+    <img src="https://img.shields.io/badge/Teléfono-%2B54%2011%205691-1720-blue?style=flat&logo=phone&logoColor=white" alt="Teléfono" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
@@ -107,3 +112,7 @@ Soy un estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca con orienta
   </a>
 
 </div>
+
+---
+
+*Gracias por visitar mi perfil.*
