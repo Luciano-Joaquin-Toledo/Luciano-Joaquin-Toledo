@@ -1,76 +1,90 @@
-<h1 align="center">Luciano Joaquín Toledo</h1>
-<h3 align="center">Estudiante Técnico en Informática | Desarrollador en formación</h3>
+<div align="center">
+  <img height="170" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+</div>
 
-<p align="center">
-📍 Lomas de Zamora, Buenos Aires, Argentina  
-📧 toledoluciano657@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;📱 +54 11 5691-1720  
-</p>
-
----
-
-### 💼 Sobre mí
-
-Soy estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca, especializado en informática personal y profesional. Me apasiona el desarrollo de software, la resolución de problemas y el aprendizaje continuo de nuevas tecnologías. 
-
-A lo largo de mi formación académica, he desarrollado múltiples proyectos con tecnologías como Python, SQL, HTML, CSS, JavaScript, PHP y Visual Basic. Me destaco por mi compromiso, responsabilidad y capacidad de trabajo en equipo.
+<div align="center">
+  <h1>Luciano Joaquín Toledo</h1>
+  <h3>👨‍💻 Estudiante Técnico en Informática | Desarrollador en formación</h3>
+</div>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+<div align="center">
+  <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicación-Lomas%20de%20Zamora-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
+</div>
 
-| Lenguajes                          | Herramientas                           | Sistemas Operativos     |
-|-----------------------------------|----------------------------------------|--------------------------|
-| Python, Visual Basic, PHP         | Arduino, Android Studio, Git           | Windows, Ubuntu, Debian |
-| JavaScript, SQL, HTML5, CSS3      | MySQL, Excel Avanzado                  |                          |
+<br/>
 
----
-
-### 🧪 Proyectos destacados
-
-#### 🔹 **Proyecto T.O.B.I. (2024)**
-> Sistema de gestión de alumnos con Python y SQL. Participación en la Feria Regional y Provincial de Ciencia y Tecnología.
-
-#### 🔹 **Proyecto M.L.M. (2024)**
-> Aplicación educativa desarrollada en Android Studio. Optimiza procesos de aprendizaje.
-
-#### 🔹 **Sistema de Tickets (2022)**
-> Proyecto basado en Arduino para la automatización de turnos y atención.
-
-#### 🔹 **Sistema de Ventas (2022)**
-> Aplicación de escritorio desarrollada con Visual Basic y base de datos en SQL.
-
-#### 🔹 **Sitio Web Institucional (2023)**
-> Página web responsive desarrollada con HTML5, CSS3, JavaScript, PHP y SQL.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=toledoluciano657.toledoluciano657" />
+</div>
 
 ---
 
-### 📄 Certificaciones
+## 💼 Sobre mí
 
-- **Excel Avanzado** – UTN (2023)  
-- **Diseño Web** – Capacitación técnica (2023)  
-- **Finder – Capacitación para el Empleo** (2021)
-
----
-
-### 💡 Aptitudes y valores
-
-- Resolución de problemas  
-- Liderazgo y proactividad  
-- Responsabilidad y versatilidad  
-- Trabajo en equipo  
-- Enfoque en el aprendizaje continuo  
-- Comunicación efectiva y cordialidad  
+📌 Estudiante avanzado del Instituto Técnico Dr. Emilio Lamarca – Orientación en informática personal y profesional.  
+💡 Apasionado por la tecnología, el desarrollo de software y el aprendizaje constante.  
+💻 Me gusta trabajar en proyectos reales, resolver problemas y colaborar en equipo.  
+🎯 Objetivo: crecer como profesional IT, aportando soluciones creativas y eficientes.
 
 ---
 
-### 📫 Contacto
+## 🛠️ Tecnologías y herramientas
 
-Estoy abierto a oportunidades de prácticas profesionales, pasantías o proyectos colaborativos en el área de desarrollo de software o IT.
-
-- 📧 **Email:** toledoluciano657@gmail.com  
-- 📱 **Teléfono:** +54 11 5691-1720  
-- 🌐 **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com) <!-- Cambiá TU-USUARIO por tu nombre de usuario real cuando tengas LinkedIn -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+</div>
 
 ---
 
-> _"El aprendizaje constante y la pasión por la tecnología son los motores de mi camino profesional."_
+## 🧪 Proyectos destacados
+
+- 🔹 **T.O.B.I. (2024):** Sistema de gestión de alumnos – Python + SQL. Participación en ferias regionales y provinciales.
+- 🔹 **M.L.M. (2024):** Aplicación Android educativa desarrollada en Android Studio.
+- 🔹 **Sistema de Tickets (2022):** Proyecto automatizado con Arduino.
+- 🔹 **Sistema de Ventas (2022):** Escritorio – Visual Basic + SQL.
+- 🔹 **Diseño Web (2023):** HTML5, CSS3, JS, PHP y SQL.
+
+---
+
+## 📄 Certificaciones
+
+- 🏅 Excel Avanzado – UTN (2023)  
+- 🏅 Diseño Web – Capacitación técnica (2023)  
+- 🏅 Finder – Capacitación para el empleo (2021)
+
+---
+
+## 💡 Aptitudes
+
+- ✅ Trabajo en equipo y liderazgo  
+- ✅ Responsabilidad y compromiso  
+- ✅ Pensamiento analítico  
+- ✅ Versatilidad y proactividad  
+- ✅ Aprendizaje continuo  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=toledoluciano657&theme=dark&hide_border=false&border_radius=6&locale=es" height="220" alt="GitHub streak stats"/>
+</div>
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** toledoluciano657@gmail.com  
+📱 **Teléfono:** +54 11 5691-1720  
+🌐 **LinkedIn:** (agregá tu link cuando tengas perfil creado)  
