@@ -49,10 +49,10 @@
 
 ## 🧪 Proyectos destacados
 
-- 🔹 **T.O.B.I. (2024):** Sistema de gestión de alumnos – Python + SQL. Participación en ferias regionales y provinciales.
-- 🔹 **M.L.M. (2024):** Aplicación Android educativa desarrollada en Android Studio.
-- 🔹 **Sistema de Tickets (2022):** Proyecto automatizado con Arduino.
-- 🔹 **Sistema de Ventas (2022):** Escritorio – Visual Basic + SQL.
+- 🔹 **T.O.B.I. (2024):** Sistema de gestión de alumnos – Python + SQL. Participación en ferias regionales y provinciales.  
+- 🔹 **M.L.M. (2024):** Aplicación Android educativa desarrollada en Android Studio.  
+- 🔹 **Sistema de Tickets (2022):** Proyecto automatizado con Arduino.  
+- 🔹 **Sistema de Ventas (2022):** Escritorio – Visual Basic + SQL.  
 - 🔹 **Diseño Web (2023):** HTML5, CSS3, JS, PHP y SQL.
 
 ---
@@ -78,7 +78,32 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=toledoluciano657&theme=dark&hide_border=false&border_radius=6&locale=es" height="220" alt="GitHub streak stats"/>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=toledoluciano657&theme=dark&hide_border=false&border_radius=10&locale=es" 
+    alt="GitHub Streak Stats" 
+    height="220" 
+    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=toledoluciano657&show_icons=true&theme=dark&locale=es&hide_border=false&count_private=true"
+    alt="GitHub Stats"
+    height="160"
+    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
+  />
+
+  <br/>
+
+  <img 
+    src="https://github-readme-top-langs.vercel.app/api/?username=toledoluciano657&langs_count=8&layout=compact&theme=dark&hide_border=false" 
+    alt="Top Languages" 
+    height="100"
+    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
+  />
+
 </div>
 
 ---
@@ -88,3 +113,4 @@
 📧 **Email:** toledoluciano657@gmail.com  
 📱 **Teléfono:** +54 11 5691-1720  
 🌐 **LinkedIn:** (agregá tu link cuando tengas perfil creado)  
+
