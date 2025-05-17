@@ -10,14 +10,14 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Luciano.Joaquin.Toledo%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubicación-Lomas%20de%20Zamora-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=toledoluciano657.toledoluciano657" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luciano-Joaquin-Toledo.Luciano-Joaquin-Toledo" />
 </div>
 
 ---
@@ -79,11 +79,11 @@
 
 <div align="center">
 
-  ![Contribuciones recientes](https://github.com/toledoluciano657.png?size=120)
+  ![Contribuciones recientes](https://github.com/Luciano-Joaquin-Toledo.png?size=120)
 
   <p>¡Seguime en GitHub para ver mis proyectos en progreso y contribuciones!</p>
 
-  <a href="https://github.com/toledoluciano657?tab=repositories" target="_blank">
+  <a href="https://github.com/Luciano-Joaquin-Toledo?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Mis%20Repositorios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios GitHub" />
   </a>
 
@@ -92,9 +92,9 @@
   <details>
     <summary><strong>Repositorios destacados</strong></summary>
 
-    - [QuickMenu](https://github.com/toledoluciano657/QuickMenu) - Menú digital por código QR para restaurantes.  
-    - [T.O.B.I.](https://github.com/toledoluciano657/T.O.B.I) - Sistema de gestión de alumnos en Python y SQL.  
-    - [MLM-App](https://github.com/toledoluciano657/MLM-App) - Aplicación educativa para Android.  
+    - [QuickMenu](https://github.com/Luciano-Joaquin-Toledo/QuickMenu) - Menú digital por código QR para restaurantes.  
+    - [T.O.B.I.](https://github.com/Luciano-Joaquin-Toledo/T.O.B.I) - Sistema de gestión de alumnos en Python y SQL.  
+    - [MLM-App](https://github.com/Luciano-Joaquin-Toledo/MLM-App) - Aplicación educativa para Android.  
 
   </details>
 
@@ -102,10 +102,9 @@
 
 ---
 
-
 ## 📫 Contacto
 
-📧 **Email:** toledoluciano657@gmail.com  
+📧 **Email:** Luciano.Joaquin.Toledo@gmail.com  
 📱 **Teléfono:** +54 11 5691-1720  
 🌐 **LinkedIn:** (agregá tu link cuando tengas perfil creado)  
 
