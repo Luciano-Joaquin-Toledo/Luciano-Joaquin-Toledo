@@ -75,38 +75,33 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Actividad en GitHub
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=toledoluciano657&theme=dark&hide_border=false&border_radius=10&locale=es" 
-    alt="GitHub Streak Stats" 
-    height="220" 
-    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
-  />
+  ![Contribuciones recientes](https://github.com/toledoluciano657.png?size=120)
 
-  <br/>
+  <p>¡Seguime en GitHub para ver mis proyectos en progreso y contribuciones!</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=toledoluciano657&show_icons=true&theme=dark&locale=es&hide_border=false&count_private=true"
-    alt="GitHub Stats"
-    height="160"
-    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
-  />
+  <a href="https://github.com/toledoluciano657?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Mis%20Repositorios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios GitHub" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  <img 
-    src="https://github-readme-top-langs.vercel.app/api/?username=toledoluciano657&langs_count=8&layout=compact&theme=dark&hide_border=false" 
-    alt="Top Languages" 
-    height="100"
-    style="box-shadow: 0 0 15px rgba(0,0,0,0.3); border-radius: 10px;"
-  />
+  <details>
+    <summary><strong>Repositorios destacados</strong></summary>
+
+    - [QuickMenu](https://github.com/toledoluciano657/QuickMenu) - Menú digital por código QR para restaurantes.  
+    - [T.O.B.I.](https://github.com/toledoluciano657/T.O.B.I) - Sistema de gestión de alumnos en Python y SQL.  
+    - [MLM-App](https://github.com/toledoluciano657/MLM-App) - Aplicación educativa para Android.  
+
+  </details>
 
 </div>
 
 ---
+
 
 ## 📫 Contacto
 
