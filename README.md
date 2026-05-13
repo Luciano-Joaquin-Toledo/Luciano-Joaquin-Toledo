@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="180" alt="Welcome Gif" />
   <h1>👋 Hola, soy <strong>Luciano Joaquín Toledo</strong></h1>
-  <h3>Estudiante Técnico en Informática | Desarrollador en formación</h3>
+  <h3> Técnico en Informática | Desarrollador en formación</h3>
 </div>
 
 ---
