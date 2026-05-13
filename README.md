@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="mailto:toledoluciano657@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-toledoluciano657%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ljtoledo222%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.google.com/maps/place/Lomas+de+Zamora" target="_blank">
     <img src="https://img.shields.io/badge/Ubicación-Lomas%20de%20Zamora-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación" />
